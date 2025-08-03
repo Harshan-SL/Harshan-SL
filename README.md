@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Harshan S L](./Harshan%20S%20L.png)
 <!--
 **Harshan-SL/Harshan-SL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
